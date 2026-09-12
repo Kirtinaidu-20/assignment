@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;   /* Change color as you like */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 200px;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 40px;
+}
